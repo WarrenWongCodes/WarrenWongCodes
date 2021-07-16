@@ -35,6 +35,7 @@
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis%20-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase)
 
 ### **Testing and Deployment:**
 
