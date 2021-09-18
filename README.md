@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:warren.wong4@gmail.com)
 [![GitHub](https://img.shields.io/badge/WarrenWongCodes%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/WarrenWongCodes)](https://github.com/WarrenWongCodes)
 
-- 👨‍💻 Software Engineer
+- 👨‍💻 Software Engineer @ Fox
 - 🇺🇸 U.S. Marine Veteran
 - 🗺️ Avid travel enthusiast
 - 📍 Currently located in NYC
