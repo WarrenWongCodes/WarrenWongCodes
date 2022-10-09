@@ -11,40 +11,19 @@
 
 ## 🔧 Technologies & Tools:
 
-### **Front End:**
-
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
-![Sass](https://img.shields.io/badge/Sass%20-%231582B7.svg?&style=flat-square&logo=Sass&logoColor=pink)
-![Material-UI](https://img.shields.io/badge/Material--UI%20-%23239DFF.svg?&style=flat-square&logo=material-ui&logoColor=fff)
-![Axios](https://img.shields.io/badge/-Axios-blueviolet)
-
-### **Back End:**
-
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%232187B6.svg?&style=flat-square&logo=postgreSQL&logoColor=white)
-![Sequelize](https://img.shields.io/badge/sequelize-blue?logo=sequelize)
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose%20-%23880000.svg?&style=flat-square&logo=mongoose)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis%20-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase)
-
-### **Testing and Deployment:**
-
-![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel%20-F9DC3e?style=flat-square&logo=babel&logoColor=black)
-![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman%20-FF6C37?style=flat-square&logo=postman&logoColor=red)
-![Mocha](https://img.shields.io/badge/-mocha%20-%238D6748?&style=flat-square&logo=mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/Chai%20-%23F6ECD4.svg?&style=flat-square)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
-![npm](https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=flat-square&logo=npm&logoColor=black)
-![Yarn](https://img.shields.io/badge/yarn%20-%232187B6.svg?&style=flat-square&logo=yarn&logoColor=black)
-![Bash](https://img.shields.io/badge/bash%20-%2349A124.svg?&style=flat-square&logo=gnu-bash&logoColor=black)
+
 
 ## 📈 My GitHub Stats
 
