@@ -1,5 +1,6 @@
-![Social banner for WarrenWongCodes](https://github.com/WarrenWongCodes/WarrenWongCodes/blob/master/images/github-graphic.gif)
-
+<p align="center">
+  <img src="./images/github-graphic.gif" width="1000" alt="WarrenWongCodes Readme gif">
+</p>
 
 ## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
