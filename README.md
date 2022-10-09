@@ -4,9 +4,7 @@
 
 ## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamwarrenwong/)
-[![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:warren.wong4@gmail.com)
-[![GitHub](https://img.shields.io/badge/WarrenWongCodes%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/WarrenWongCodes)](https://github.com/WarrenWongCodes)
+### 👨‍💻 About Me
 
 - 👨‍💻 Software Engineer @ [Fox](https://tech.fox.com/)
 - 🇺🇸 U.S. Marine Veteran
@@ -15,7 +13,13 @@
 - 🤐 Active DoD [Secret Clearance](https://www.state.gov/security-clearances)
 - 📍 Currently located in NYC
 
-### 🔧 Technologies & Tools:
+### 🌀 What I'm up to
+
+- Reading Clean Code by Robert Martin & On Writing by Stephen King
+- Learning Spanish
+- Fun fact: Lived in 5 different countries
+
+### 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23323330.svg?&style=flat-square&logo=typescript&logoColor=blue)
@@ -31,6 +35,10 @@
 ![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
 
----
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=WarrenWongCodes&count_private=true&theme=dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📬 How to contact me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamwarrenwong/)
+[![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:warren.wong4@gmail.com)
+[![GitHub](https://img.shields.io/badge/WarrenWongCodes%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/WarrenWongCodes)](https://github.com/WarrenWongCodes)
