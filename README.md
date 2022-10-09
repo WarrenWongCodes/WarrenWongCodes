@@ -8,9 +8,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:warren.wong4@gmail.com)
 [![GitHub](https://img.shields.io/badge/WarrenWongCodes%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/WarrenWongCodes)](https://github.com/WarrenWongCodes)
 
-- 👨‍💻 Software Engineer @ Fox
+- 👨‍💻 Software Engineer @ [Fox](https://tech.fox.com/)
 - 🇺🇸 U.S. Marine Veteran
 - 🗺️ Avid travel enthusiast
+- 🪖 Mentor @ [Veterati](https://go.veterati.com/I35jH0) & [Operation Code](https://operationcode.org/)
+- 🤐 Active DoD [Secret Clearance](https://www.state.gov/security-clearances)
 - 📍 Currently located in NYC
 
 ### 🔧 Technologies & Tools:
