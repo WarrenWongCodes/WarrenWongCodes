@@ -11,7 +11,7 @@
 - 🗺️ Avid travel enthusiast
 - 🪖 Mentor @ [Veterati](https://go.veterati.com/I35jH0) & [Operation Code](https://operationcode.org/)
 - 🤐 Active DoD [Secret Clearance](https://www.state.gov/security-clearances)
-- 📍 Currently located in NYC
+- 📍 Based in New York City
 
 ### 🌀 What I'm up to
 
