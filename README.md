@@ -15,13 +15,9 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
-![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass%20-%231582B7.svg?&style=flat-square&logo=Sass&logoColor=pink)
-![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI%20-%23239DFF.svg?&style=flat-square&logo=material-ui&logoColor=fff)
 ![Axios](https://img.shields.io/badge/-Axios-blueviolet)
-![jQuery](https://img.shields.io/badge/jQuery%20-%230A68AD.svg?&style=flat-square&logo=jquery&logoColor=fff)
 
 ### **Back End:**
 
@@ -40,14 +36,12 @@
 ### **Testing and Deployment:**
 
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel%20-F9DC3e?style=flat-square&logo=babel&logoColor=black)
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman%20-FF6C37?style=flat-square&logo=postman&logoColor=red)
 ![Mocha](https://img.shields.io/badge/-mocha%20-%238D6748?&style=flat-square&logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/Chai%20-%23F6ECD4.svg?&style=flat-square)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=flat-square&logo=Trello&logoColor=white)
 ![npm](https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=flat-square&logo=npm&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn%20-%232187B6.svg?&style=flat-square&logo=yarn&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash%20-%2349A124.svg?&style=flat-square&logo=gnu-bash&logoColor=black)
