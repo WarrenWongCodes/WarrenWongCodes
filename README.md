@@ -6,18 +6,9 @@
 
 ### ⚒️ About Me
 
-- 👨‍💻 Software Engineer @ [Fox](https://tech.fox.com/)
+- 👨‍💻 Software Engineer
 - 🇺🇸 U.S. Marine Veteran
-- 🗺️ Avid travel enthusiast
-- 🪖 Mentor @ [Veterati](https://go.veterati.com/I35jH0) & [Operation Code](https://operationcode.org/)
-- 🤐 Active DoD [Secret Clearance](https://www.state.gov/security-clearances)
 - 📍 Based in New York City
-
-### 🌀 What I'm up to
-
-- Reading Clean Code by Robert Martin & On Writing by Stephen King
-- Learning Spanish
-- Fun fact: Lived in 5 different countries
 
 ### 🔧 Technologies & Tools
 
