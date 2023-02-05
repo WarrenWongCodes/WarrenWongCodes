@@ -4,12 +4,6 @@
 
 ## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-### ⚒️ About Me
-
-- 👨‍💻 Software Engineer
-- 🇺🇸 U.S. Marine Veteran
-- 📍 Based in New York City
-
 ### 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
