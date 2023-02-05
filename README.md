@@ -30,6 +30,4 @@
 
 ### 📬 How to contact me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamwarrenwong/)
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:warrenwongdev@gmail.com)
-[![GitHub](https://img.shields.io/badge/WarrenWongCodes%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/WarrenWongCodes)](https://github.com/WarrenWongCodes)
