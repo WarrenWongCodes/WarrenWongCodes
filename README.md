@@ -20,7 +20,7 @@
 ![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=WarrenWongCodes&count_private=true&theme=dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=WarrenWongCodes&count_private=true&theme=dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### 📬 How to contact me
 
